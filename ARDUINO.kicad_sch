@@ -5,7 +5,7 @@
 	(uuid "809dff49-2f78-5106-a043-185533797ca3")
 	(paper "A4")
 	(title_block
-		(title "ÁRVORE DE NATAL · shield de LEDs para Arduino UNO")
+		(title "ÁRVORE DE NATAL")
 		(date "2026-11-12")
 		(rev "R01")
 		(company "ZAT ELECTRONIC")
@@ -1351,7 +1351,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6f6421bd-30fe-4599-aecf-9ff68a54fb44")
 		(property "Reference" "#PWR1"
 			(at 76.2 113.03 0)
@@ -1365,7 +1364,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 113.03 0)
+			(at 81.28 115.57 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
