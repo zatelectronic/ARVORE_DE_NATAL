@@ -709,7 +709,7 @@
 		(at 83.82 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "062af478-1bf4-43b2-9bf2-6701562bbc74")
+		(uuid "ff9c5981-8c8e-4ce5-974b-de899ff68d41")
 	)
 	(wire
 		(pts
@@ -763,6 +763,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 113.03) (xy 86.36 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d81772d-ff5d-4adc-8b56-453dbaab30a8")
+	)
+	(wire
+		(pts
 			(xy 111.76 82.55) (xy 114.3 82.55)
 		)
 		(stroke
@@ -770,6 +780,16 @@
 			(type default)
 		)
 		(uuid "4d4ed232-2b21-411a-aff0-86f4cbeace0a")
+	)
+	(wire
+		(pts
+			(xy 82.55 113.03) (xy 83.82 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56221e21-0930-4c2b-85c5-3f9cf7b9f8c7")
 	)
 	(wire
 		(pts
@@ -790,16 +810,6 @@
 			(type default)
 		)
 		(uuid "a34336f6-3066-4588-b710-b7749b89c6f7")
-	)
-	(wire
-		(pts
-			(xy 82.55 113.03) (xy 86.36 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa63e351-01a7-46f1-b83e-7d8ea14ec7ee")
 	)
 	(wire
 		(pts
@@ -1152,7 +1162,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 83.82 109.22 0)
+			(at 83.058 109.474 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

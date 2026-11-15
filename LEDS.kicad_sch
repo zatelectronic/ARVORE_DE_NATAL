@@ -1445,7 +1445,7 @@
 		(dnp no)
 		(uuid "15fa3b30-4151-437c-a7c9-d204abcbafe0")
 		(property "Reference" "D3"
-			(at 86.36 72.39 0)
+			(at 87.63 71.247 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1456,7 +1456,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 92.71 76.2 90)
+			(at 91.567 71.247 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1558,7 +1558,7 @@
 		(dnp no)
 		(uuid "1985ccdd-ac16-41f5-9f76-ccf07c55c01e")
 		(property "Reference" "D10"
-			(at 166.37 72.39 0)
+			(at 168.021 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1569,7 +1569,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 172.72 76.2 90)
+			(at 171.704 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1671,7 +1671,7 @@
 		(dnp no)
 		(uuid "27c4ba1f-7daf-40f4-bdba-71d0991f18cc")
 		(property "Reference" "D12"
-			(at 189.23 72.39 0)
+			(at 190.754 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1682,7 +1682,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 195.58 76.2 90)
+			(at 194.437 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1784,7 +1784,7 @@
 		(dnp no)
 		(uuid "2c5cb65f-a312-45f5-a518-217d7b9686bb")
 		(property "Reference" "R6"
-			(at 120.65 83.82 0)
+			(at 118.364 83.947 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1795,7 +1795,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 120.65 86.36 0)
+			(at 116.967 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1887,7 +1887,7 @@
 		(dnp no)
 		(uuid "3b1e67af-10f6-49ed-ad92-4f779a044e89")
 		(property "Reference" "R9"
-			(at 154.94 83.82 0)
+			(at 152.781 84.201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1898,7 +1898,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 154.94 86.36 0)
+			(at 151.384 85.979 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1990,7 +1990,7 @@
 		(dnp no)
 		(uuid "4e200e8c-8e18-4ad1-af5d-bd43c9e262fe")
 		(property "Reference" "D8"
-			(at 143.51 72.39 0)
+			(at 145.161 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2001,7 +2001,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 149.86 76.2 90)
+			(at 148.336 71.247 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2103,7 +2103,7 @@
 		(dnp no)
 		(uuid "4f5691b3-4b26-4b75-8136-198f104f6f1c")
 		(property "Reference" "D11"
-			(at 177.8 72.39 0)
+			(at 179.451 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2114,7 +2114,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 184.15 76.2 90)
+			(at 182.88 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2216,7 +2216,7 @@
 		(dnp no)
 		(uuid "4ff2aa1a-f619-4a8d-952b-f58c69b518a8")
 		(property "Reference" "R11"
-			(at 177.8 83.82 0)
+			(at 175.26 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2227,7 +2227,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 177.8 86.36 0)
+			(at 174.244 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2317,7 +2317,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "53acd1f1-1fe0-4ed8-b071-85a647bf5d53")
 		(property "Reference" "#PWR2"
 			(at 50.8 63.5 0)
@@ -2331,7 +2330,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 55.88 60.96 0)
+			(at 55.88 65.913 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -2397,7 +2396,7 @@
 		(dnp no)
 		(uuid "62612535-2376-4172-9f22-575a1d04bb18")
 		(property "Reference" "D1"
-			(at 63.5 72.39 0)
+			(at 64.77 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2408,7 +2407,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 69.85 76.2 90)
+			(at 68.707 71.374 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2510,7 +2509,7 @@
 		(dnp no)
 		(uuid "6f660941-4868-4b1e-9110-b010d91864a6")
 		(property "Reference" "R5"
-			(at 109.22 83.82 0)
+			(at 106.934 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2521,7 +2520,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 109.22 86.36 0)
+			(at 105.537 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2613,7 +2612,7 @@
 		(dnp no)
 		(uuid "7b388f83-48e7-4200-b02e-fa4414c1f6f4")
 		(property "Reference" "R10"
-			(at 166.37 83.82 0)
+			(at 163.322 83.947 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2624,7 +2623,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 166.37 86.36 0)
+			(at 162.687 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2716,7 +2715,7 @@
 		(dnp no)
 		(uuid "7bf72b7c-1b53-4b41-9060-a485c37a6bd9")
 		(property "Reference" "R1"
-			(at 63.5 83.82 0)
+			(at 61.087 83.947 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2727,7 +2726,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 63.5 86.36 0)
+			(at 59.69 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2819,7 +2818,7 @@
 		(dnp no)
 		(uuid "924a0071-345a-4971-bec6-2c3ae695c859")
 		(property "Reference" "D5"
-			(at 109.22 72.39 0)
+			(at 110.744 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2830,7 +2829,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 115.57 76.2 90)
+			(at 114.3 71.247 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2932,7 +2931,7 @@
 		(dnp no)
 		(uuid "a2be4f5e-c0b3-4a18-b196-21798a1a7188")
 		(property "Reference" "R7"
-			(at 132.08 83.82 0)
+			(at 129.921 84.201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2943,7 +2942,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 132.08 86.36 0)
+			(at 128.397 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3035,7 +3034,7 @@
 		(dnp no)
 		(uuid "a6cc1749-3e5c-47e9-ad9d-6e42f55b4a76")
 		(property "Reference" "R8"
-			(at 143.51 83.82 0)
+			(at 141.224 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3046,7 +3045,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 143.51 86.36 0)
+			(at 139.827 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3138,7 +3137,7 @@
 		(dnp no)
 		(uuid "a95c7b3c-1374-4c1b-8976-fdc81b1f772d")
 		(property "Reference" "D6"
-			(at 120.65 72.39 0)
+			(at 122.174 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3149,7 +3148,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 127 76.2 90)
+			(at 125.73 71.247 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3251,7 +3250,7 @@
 		(dnp no)
 		(uuid "be8e3b6d-244d-49f4-8438-9e5c98abb1fc")
 		(property "Reference" "R2"
-			(at 74.93 83.82 0)
+			(at 72.517 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3262,7 +3261,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 74.93 86.36 0)
+			(at 71.247 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3354,7 +3353,7 @@
 		(dnp no)
 		(uuid "c18d2fc5-7872-4ab4-9810-7e9c8774dd0f")
 		(property "Reference" "D9"
-			(at 154.94 72.39 0)
+			(at 156.464 70.993 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3365,7 +3364,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 161.29 76.2 90)
+			(at 160.02 70.993 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3467,7 +3466,7 @@
 		(dnp no)
 		(uuid "c553fb5d-2da3-4ae8-b834-84ef2f4b116e")
 		(property "Reference" "D7"
-			(at 132.08 72.39 0)
+			(at 133.731 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3478,7 +3477,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 138.43 76.2 90)
+			(at 137.287 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3580,7 +3579,7 @@
 		(dnp no)
 		(uuid "d30d96a3-08ca-4034-8015-fcebdf1dbf50")
 		(property "Reference" "R4"
-			(at 97.79 83.82 0)
+			(at 95.377 83.947 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3591,7 +3590,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 97.79 86.36 0)
+			(at 94.107 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3683,7 +3682,7 @@
 		(dnp no)
 		(uuid "dd3c653a-60d3-4e00-b3f9-0a59b13d55cc")
 		(property "Reference" "D2"
-			(at 74.93 72.39 0)
+			(at 75.946 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3694,7 +3693,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 81.28 76.2 90)
+			(at 80.137 71.374 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3796,7 +3795,7 @@
 		(dnp no)
 		(uuid "e7a664f2-b315-43a1-9976-184eeb942c5f")
 		(property "Reference" "R3"
-			(at 86.36 83.82 0)
+			(at 84.074 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3807,7 +3806,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 86.36 86.36 0)
+			(at 82.804 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3899,7 +3898,7 @@
 		(dnp no)
 		(uuid "eea3b4e4-8887-4286-80ab-06e65da834e3")
 		(property "Reference" "D4"
-			(at 97.79 72.39 0)
+			(at 99.314 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3910,7 +3909,7 @@
 			)
 		)
 		(property "Value" "LED_5mm_Red"
-			(at 104.14 76.2 90)
+			(at 103.124 71.501 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4012,7 +4011,7 @@
 		(dnp no)
 		(uuid "f3cad9fc-0e7e-4d91-9189-7bcded7c828f")
 		(property "Reference" "R12"
-			(at 189.23 83.82 0)
+			(at 186.436 84.201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4023,7 +4022,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 189.23 86.36 0)
+			(at 185.674 85.979 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
